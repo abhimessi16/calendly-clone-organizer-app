@@ -7,6 +7,8 @@ Whenever an Attendee books the time of an Organizer, the Attendee will receive a
 
 # Calendly Clone Organizer app
 
+Using React.js
+
 _Landing Page_
 
 ![image](https://github.com/abhimessi16/calendly-clone-organizer-app/assets/91337858/281c8602-674a-42a2-bb01-fb771045d327)
